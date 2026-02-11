@@ -1,2 +1,2 @@
-execute if entity @a[x=75, dx=12, y=0, dy=2, z=-1, dz=2] run setblock 58 -1 5 minecraft:redstone_block
-execute unless entity @a[x=75, dx=12, y=0, dy=2, z=-1, dz=2] run setblock 58 -1 5 minecraft:lime_concrete
+execute if entity @a[x=72, dx=12, y=0, dy=2, z=-1, dz=2] run setblock 58 -1 5 minecraft:redstone_block
+execute unless entity @a[x=72, dx=12, y=0, dy=2, z=-1, dz=2] run setblock 58 -1 5 minecraft:lime_concrete
